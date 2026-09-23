@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /BOG500-inventario.html
+Disallow: /BOG500-admin.html
+Disallow: /BOG500-subir-inmueble.html
+
+Sitemap: https://www.bog500.com/sitemap.xml
